@@ -3,9 +3,9 @@
 
 ![PrankMaster Pro Logo](https://raw.githubusercontent.com/kentrugithud/Pranker/refs/heads/main/logo.png)
 
-# 🎭 PrankMaster Pro v1.3.0
+# 🎭 PrankMaster Pro v1.3.3
 
-![Version](https://img.shields.io/badge/version-1.3.0-blue)
+![Version](https://img.shields.io/badge/version-1.3.3-blue)
 ![Python](https://img.shields.io/badge/python-3.6%2B-green)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
 
