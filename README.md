@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://github.com/kentrugithud/Pranker/blob/main/logo.png" alt="PrankMaster Pro Logo" width="200">
+
 ![Version](https://img.shields.io/badge/version-1.3.3-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
