@@ -1,10 +1,10 @@
-# 🎭 PrankMaster Pro v1.3.3
+# 🎭 PrankMaster Pro v1.3.5
 
 <div align="center">
 
 <img src="https://github.com/kentrugithud/Pranker/blob/main/logo.png" alt="PrankMaster Pro Logo" width="200">
 
-![Version](https://img.shields.io/badge/version-1.3.3-green.svg)
+![Version](https://img.shields.io/badge/version-1.3.5-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
@@ -23,6 +23,7 @@ PrankMaster Pro - программа для создания безобидны�
 
 - 🔴 Выключение/Перезагрузка/Спящий режим
 - 🎥 Видео пранк (YouTube) 
+- 💀 Fake BSOD (Синий экран)
 - ⚡ Простой и понятный интерфейс
 - 🎨 Темная тема
 - 🔒 Безопасные пранки
@@ -45,10 +46,12 @@ PrankMaster Pro - программа для создания безобидны�
 - Используйте только с согласия друзей
 - Все пранки безопасны и обратимы
 - Программа не вредит системе
+- Fake BSOD открывает браузер с сайтом
 
 ## 🔗 Ссылки
 
 - [Официальный сайт](https://prankerpro.github.io)
+- [Fake BSOD Демо](https://satictikatt.github.io)
 - [Сайт разработчика](https://kentrugithud.github.io)
 - [Telegram канал](https://t.me/kentrutg)
 
@@ -56,6 +59,6 @@ PrankMaster Pro - программа для создания безобидны�
 
 <div align="center">
 
-**© 2025 Kent Corp. | PrankMaster Pro v1.3.3**
+**© 2025 Kent Corp. | PrankMaster Pro v1.3.5**
 
 </div>
